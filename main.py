@@ -3,7 +3,7 @@ import telegram
 
 
 def main():
-    telegram_token = input("Telegram Token (bot1xxx): ").strip()
+    telegram_token = input("6212262263:AAFATY83PYIqroPxGb2gIJVfdOLowtVAuAs): ").strip()
     telegram_chat_id = input("Telegram Chat ID (-100xxx): ").strip()
 
     if telegram_token.startswith("bot"):
